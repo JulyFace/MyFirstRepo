@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\win 10\\source\\repos\\MySoftUniProject\\DemoQA\\DemoQA.csproj": {}
+    "D:\\git\\MyFirstRepo\\MySoftUniProject\\DemoQA\\DemoQA.csproj": {}
   },
   "projects": {
-    "C:\\Users\\win 10\\source\\repos\\MySoftUniProject\\DemoQA\\DemoQA.csproj": {
+    "D:\\git\\MyFirstRepo\\MySoftUniProject\\DemoQA\\DemoQA.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\win 10\\source\\repos\\MySoftUniProject\\DemoQA\\DemoQA.csproj",
+        "projectUniqueName": "D:\\git\\MyFirstRepo\\MySoftUniProject\\DemoQA\\DemoQA.csproj",
         "projectName": "DemoQA",
-        "projectPath": "C:\\Users\\win 10\\source\\repos\\MySoftUniProject\\DemoQA\\DemoQA.csproj",
+        "projectPath": "D:\\git\\MyFirstRepo\\MySoftUniProject\\DemoQA\\DemoQA.csproj",
         "packagesPath": "C:\\Users\\win 10\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\win 10\\source\\repos\\MySoftUniProject\\DemoQA\\obj\\",
+        "outputPath": "D:\\git\\MyFirstRepo\\MySoftUniProject\\DemoQA\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\win 10\\AppData\\Roaming\\NuGet\\NuGet.Config",
