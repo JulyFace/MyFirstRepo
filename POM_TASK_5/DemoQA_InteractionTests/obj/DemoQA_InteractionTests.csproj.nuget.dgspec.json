@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\win 10\\source\\repos\\POM_TASK_5\\DemoQA_InteractionTests\\DemoQA_InteractionTests.csproj": {}
+    "D:\\git\\MyFirstRepo\\POM_TASK_5\\DemoQA_InteractionTests\\DemoQA_InteractionTests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\win 10\\source\\repos\\POM_TASK_5\\DemoQA_InteractionTests\\DemoQA_InteractionTests.csproj": {
+    "D:\\git\\MyFirstRepo\\POM_TASK_5\\DemoQA_InteractionTests\\DemoQA_InteractionTests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\win 10\\source\\repos\\POM_TASK_5\\DemoQA_InteractionTests\\DemoQA_InteractionTests.csproj",
+        "projectUniqueName": "D:\\git\\MyFirstRepo\\POM_TASK_5\\DemoQA_InteractionTests\\DemoQA_InteractionTests.csproj",
         "projectName": "DemoQA_InteractionTests",
-        "projectPath": "C:\\Users\\win 10\\source\\repos\\POM_TASK_5\\DemoQA_InteractionTests\\DemoQA_InteractionTests.csproj",
+        "projectPath": "D:\\git\\MyFirstRepo\\POM_TASK_5\\DemoQA_InteractionTests\\DemoQA_InteractionTests.csproj",
         "packagesPath": "C:\\Users\\win 10\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\win 10\\source\\repos\\POM_TASK_5\\DemoQA_InteractionTests\\obj\\",
+        "outputPath": "D:\\git\\MyFirstRepo\\POM_TASK_5\\DemoQA_InteractionTests\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\win 10\\AppData\\Roaming\\NuGet\\NuGet.Config",
