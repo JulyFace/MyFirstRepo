@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "T6vbJ6GlMPJV3NTn/j6KdLl9bTH/mbql8p/QxYQXsYWy6MeGf2KflrJiR8y0zNwDUnAHI00uGJUwyTuIAz9HOg==",
+  "dgSpecHash": "dF/dxQ6um6O7gb6IyYyVn2JqQsAPxJ4nHem1Zhid+V9/vtbWONRImSPA70T4eyIeKv7khi7UD3TtH75+WwvD4A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\win 10\\source\\repos\\POM_TASK_5\\DemoQA_InteractionTests\\DemoQA_InteractionTests.csproj",
+  "projectFilePath": "D:\\git\\MyFirstRepo\\POM_TASK_5\\DemoQA_InteractionTests\\DemoQA_InteractionTests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\win 10\\.nuget\\packages\\autofixture\\4.11.0\\autofixture.4.11.0.nupkg.sha512",
     "C:\\Users\\win 10\\.nuget\\packages\\dotnetseleniumextras.pageobjects\\3.11.0\\dotnetseleniumextras.pageobjects.3.11.0.nupkg.sha512",
